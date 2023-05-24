@@ -84,7 +84,7 @@ for l in lista :
         club=club) 
     
 
-session.add(jugadores)
+    session.add(jugadores)
 
 
 
